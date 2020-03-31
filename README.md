@@ -1,2 +1,3 @@
 # emdee five for life exploit
-# emdee_five_for_life
+Exploit code is working truly
+But the answer is "too slowly..."
